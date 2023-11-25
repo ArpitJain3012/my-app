@@ -1,0 +1,46 @@
+.paginationBtns{
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.paginationBtns a{
+    padding: 12px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    color: rgb(121, 121, 197);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.paginationBtns a:hover{
+    color: white;
+    background-color: rgb(140, 140, 223);
+}
+
+.paginationActive a{
+    color: white;
+    background-color: rgb(128, 128, 215);
+}
+
+.btnss{
+    cursor: pointer;
+}
+
+.invalid{
+    border: 1px solid red ;
+}
+.err{
+   color: red;
+   font: bold;
+}
+
+.invalid::placeholder{
+   color: red;
+}
+.hide{
+    display: none;
+}

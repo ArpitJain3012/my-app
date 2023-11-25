@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "arpit kumars",
+      "username": "arpit1232",
+      "email": "arpit.g.jain@capgemini.yahuu",
+      "phone": "9650438179",
+      "id": 12
+    },
+    {
+      "name": "Neetu Bansals",
+      "username": "N132",
+      "email": "Netu@yahoo.com",
+      "phone": "9717666224",
+      "id": 15
+    },
+    {
+      "name": "Akash",
+      "username": "Akash12",
+      "email": "Akash21@gmail.com",
+      "phone": "9953001978",
+      "id": 16
+    },
+    {
+      "name": "Oliver",
+      "username": "Oliver24",
+      "email": "oliver@yahoo.com",
+      "phone": "7988020134",
+      "id": 18
+    },
+    {
+      "name": "sameer qureshi",
+      "username": "sam12",
+      "email": "sameer@gmail.com",
+      "phone": "1234567890",
+      "id": 19
+    },
+    {
+      "name": "Mrs Dennis Schulist",
+      "username": "Schulist",
+      "email": "DennisSchulist@info.co.in",
+      "phone": "0112732456",
+      "id": 20
+    }
+  ]
+}
